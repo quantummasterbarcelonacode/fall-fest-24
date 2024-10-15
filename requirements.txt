@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+jupyter
+qiskit[visualization]==1.2
+qiskit_algorithms
+qiskit_aer >= 0.14
+qiskit_ibm_runtime
+qiskit_ibm_transpiler
