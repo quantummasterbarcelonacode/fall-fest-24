@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Entanglement type: linear, Optimizer: SPSA, Accuracy: 5.451084172385875, Time: 57.12250208854675s
 Entanglement type: pairwise, Optimizer: SPSA, Accuracy: 5.569736516135875, Time: 47.66102480888367s
 Entanglement type: circular, Optimizer: SPSA, Accuracy: 5.921543156760875, Time: 48.41333627700806s
@@ -6,4 +7,14 @@ Entanglement type: pairwise, Optimizer: COBYLA, Accuracy: 1.7994728442608752, Ti
 Entanglement type: circular, Optimizer: COBYLA, Accuracy: 2.195713078635875, Time: 171.82810926437378s
 Entanglement type: linear, Optimizer: SLSQP, Accuracy: 7.104160344260875, Time: 2041.8731718063354s
 Entanglement type: pairwise, Optimizer: SLSQP, Accuracy: 7.477451359885875, Time: 2208.4085776805878s
+=======
+Entanglement type: linear, Optimizer: SPSA, Accuracy: 5.451084172385875, Time: 57.12250208854675s
+Entanglement type: pairwise, Optimizer: SPSA, Accuracy: 5.569736516135875, Time: 47.66102480888367s
+Entanglement type: circular, Optimizer: SPSA, Accuracy: 5.921543156760875, Time: 48.41333627700806s
+Entanglement type: linear, Optimizer: COBYLA, Accuracy: 1.7108497973858752, Time: 162.0253825187683s
+Entanglement type: pairwise, Optimizer: COBYLA, Accuracy: 1.7994728442608752, Time: 155.99039006233215s
+Entanglement type: circular, Optimizer: COBYLA, Accuracy: 2.195713078635875, Time: 171.82810926437378s
+Entanglement type: linear, Optimizer: SLSQP, Accuracy: 7.104160344260875, Time: 2041.8731718063354s
+Entanglement type: pairwise, Optimizer: SLSQP, Accuracy: 7.477451359885875, Time: 2208.4085776805878s
+>>>>>>> 4e23736407a934168a6061b241eeb81cfe3b8119
 Entanglement type: circular, Optimizer: SLSQP, Accuracy: 7.280674016135875, Time: 2274.563328742981s
